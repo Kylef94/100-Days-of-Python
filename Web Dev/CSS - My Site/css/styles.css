@@ -1,0 +1,28 @@
+hr {
+
+    }
+
+body {
+    margin:0;
+}
+
+h1, h2 {
+    margin-top: 0;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+.top-container {
+    background-color: E4F9F5;
+}
+
+.middle-container {
+    background-color: red;
+}
+
+.bottom-container {
+    background-color: blue;
+}
